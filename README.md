@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fwv498w2qlbyj3ir?svg=true)](https://ci.appveyor.com/project/valeri05/hw-sql)
